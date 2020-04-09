@@ -1,0 +1,5 @@
+FMA: A Dataset For Music Analysis
+Michaël Defferrard, Kirell Benzi, Pierre Vandergheynst, Xavier Bresson, EPFL LTS2.
+
+Code & data: https://github.com/mdeff/fma
+Paper: https://arxiv.org/abs/1612.01840
